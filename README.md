@@ -20,7 +20,7 @@
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
 ### Contact with me 📝
-[<img align="left" alt="Hugo | LinkedIn" height="30px" src="[https://www.flaticon.com/svg/static/icons/svg/725/725337.svg](https://www.linkedin.com/in/hugo-aseka-939147115/)"/>][linkedin]
+
 
 
 
@@ -65,12 +65,10 @@
 
 ---
 
-### ⭐️ From [Bgstatic](https://github.com/Bgstatic) ### 
 
 ---
 
 
-[linkedin]:[ https://www.linkedin.com/in/bilgehan-geçici-8b368614a/](https://www.linkedin.com/in/hugo-aseka-939147115/)
 
 
 
